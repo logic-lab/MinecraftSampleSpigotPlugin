@@ -1,0 +1,4 @@
+name: SamplePlugin
+main: net.logic_lab.spigot.sampleplugin.SamplePluginCore
+version: 0.0.1
+description: LogicLab Sample Plugin
